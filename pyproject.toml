@@ -1,0 +1,15 @@
+[project]
+requires-python = ">=3.10"
+name = "python-pytest-playwright-bdd-framework"
+[tool.poetry]
+package-mode = false
+requires-poetry = ">=2.0"
+
+
+readme = "README.md"
+
+[tool.poetry.dependencies]
+pytest-bdd = "^8.1.0"
+pytest-playwright = "^0.7.0"
+pytest = "^8.3.5"
+faker = "^37.1.0"
