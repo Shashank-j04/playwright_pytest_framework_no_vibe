@@ -1,5 +1,7 @@
 # playwright_pytest_framework_no_vibe
 
+Manual POC for dummy sites
+
 ## Vibe coding is strictly prohibited
 
 ***
